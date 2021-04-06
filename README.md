@@ -5,6 +5,6 @@ __**Bienvenue sur mon profil.**__
 
 📌・Je suis également **Fondateur** de **Bedroom 💤**.
 
-🔗 [Cliques ici](https://discord.gg/hBehs3HzPx)
+🔗 [(Cliques ici afin de rejoindre**Bedroom 💤**)](https://discord.gg/hBehs3HzPx)
 
 ![Bannière](https://zupimages.net/up/21/14/6saq.gif)
