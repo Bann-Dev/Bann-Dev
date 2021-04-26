@@ -11,7 +11,4 @@ __**Bienvenue sur mon profil.**__
 
 🔗 [(Cliques ici afin de rejoindre **Bedroom 💤**)](https://discord.gg/hBehs3HzPx)
 
-**Afin de m'aider dans mes projets:**
-<a href="https://www.patreon.com/bePatron?u=54009606" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
 ![Bannière](https://zupimages.net/up/21/14/6saq.gif)
