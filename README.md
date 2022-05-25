@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/seyiooo?tab=repositories](https://github.com/seyiooo?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/seyiooo?tab=repositories)
 
 - 💬 Ask me about **JavaScript**
 
