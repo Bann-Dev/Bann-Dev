@@ -31,7 +31,7 @@
 <br><br>
 
 <div align="center">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="25%"/>
+    <img href="https://www.buymeacoffee.com/seyioo" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="25%"/>
 </div>
 
 <br><br>
