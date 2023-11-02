@@ -10,7 +10,7 @@
 
 <h3>About Me:</h3>
 
-- 🔭 I’m currently working on [Atom](https://discord.gg/AQ6TSN3j9G)
+- 🔭 I’m currently working on [Atom](https://discord.gg/AQ6TSN3j9G) (project abandoned, new one underway)
 
 - 🌱 I’m currently learning **TypeScript**
 
