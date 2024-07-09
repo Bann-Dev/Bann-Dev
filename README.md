@@ -39,6 +39,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/seyiooo/disbot"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=seyiooo&layout=compact&theme=discord_old_blurple&enable_animations=true&repo=disbot&border_color=2f3136"/>
+  <a href="https://github.com/disbot-development/disbot"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbot-development&layout=compact&theme=discord_old_blurple&enable_animations=true&repo=disbot&border_color=2f3136"/>
 </div>
