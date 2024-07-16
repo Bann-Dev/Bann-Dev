@@ -10,7 +10,7 @@
 
 <h3>About Me:</h3>
 
-- 🌱 I master **JavaScript**, **TypeScript**, **Java**, **C**, **Python**, **Kotlin** and **HTML & CSS**
+- 🌱 I master **Java**, **JavaScript**, **TypeScript**, **Java**, **Python** and **HTML & CSS**. I also use **React**.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/seyiooo?tab=repositories)
 
