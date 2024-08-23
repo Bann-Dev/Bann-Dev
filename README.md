@@ -10,7 +10,9 @@
 
 <h3>About Me:</h3>
 
-- 🌱 I master **Java**, **JavaScript**, **TypeScript**, **Java**, **Python** and **HTML & CSS**. I also use **React**.
+- 🌱 I master **Java**, **JavaScript**, **TypeScript**, **Python** and **HTML & CSS**.
+
+- 💻 I use Ubuntu, Figma, Visual Studio Code, Fleet, WebStorm, NodeJS, React, NextJS, TailwindCSS
 
 - 👨‍💻 All of my projects are available [here](https://github.com/seyiooo?tab=repositories)
 
