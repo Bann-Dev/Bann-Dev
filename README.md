@@ -12,7 +12,7 @@
 
 - 🌱 I master **Java**, **JavaScript**, **TypeScript**, **Python** and **HTML & CSS**.
 
-- 💻 I use Ubuntu, Figma, Visual Studio Code, Fleet, WebStorm, NodeJS, React, NextJS, TailwindCSS
+- 💻 I use **Ubuntu**, **Figma**, **Visual Studio Code**, **Fleet**, **WebStorm**, **NodeJS**, **React**, **NextJS** and **TailwindCSS**.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/seyiooo?tab=repositories)
 
