@@ -44,10 +44,3 @@
   <a href="https://github.com/disbot-development/disbot"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=disbot-development&layout=compact&theme=discord_old_blurple&enable_animations=true&repo=disbot&border_color=2f3136"/>
 </div>
-
-<br><br>
-
-<div align="center">
-  <a href="https://discord.gg/YPW3ZNuKW5"/>
-  <img src="https://lanyard.cnrad.dev/api/1218940758061617153"/>
-</div>
